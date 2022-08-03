@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - logicalFilePath: db/changelog/master.yml
+  - include:
+      file: create-document.yml
+      relativeToChangelogFile: true

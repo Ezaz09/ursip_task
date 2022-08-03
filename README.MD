@@ -1,4 +1,5 @@
-![img.png](img.png)
+![photo_2022-08-02_15-01-50](https://user-images.githubusercontent.com/51817051/182686430-a10cdc9b-3ed2-4f73-b88f-bfc09f95b13b.jpg)
+
 
 Первый вопрос которым я задался -
 что это за таблица и какие данные в ней хранятся?
